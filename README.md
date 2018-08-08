@@ -14,3 +14,4 @@ Using method swizzling we add a fucntionality to UIDatePickerContentView (not pu
 
 All the date pickers in your project will user the new folor and/or font.
 
+![alt text](http://url/to/img.png)
